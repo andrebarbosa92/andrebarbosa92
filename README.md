@@ -3,7 +3,7 @@
 <h2 align="left">Skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="60" height="60"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="50" height="50"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="60" height="60"/> </a>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="60" height="60"/> </a>
