@@ -12,7 +12,7 @@
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarbosa92&show_icons=true&theme=codeSTACKr&locale=pt_BR)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarbosa92&show_icons=true&theme=codeSTACKr)
 
 
 
