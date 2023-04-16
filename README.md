@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-<h3 align="left">Languages and Tools:</h3>
+<p> _____________________________________________________________________________________________________________________________ </p>
+<h3 align="left">SKILLS:</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="60"/> </a> 
@@ -11,10 +11,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="60" height="60"/> </a>
 
 </p>
-
+<p> _____________________________________________________________________________________________________________________________ </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarbosa92&show_icons=true&theme=codeSTACKr)
 
-
+<p> _____________________________________________________________________________________________________________________________ </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebarbosa92&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
