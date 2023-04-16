@@ -1,6 +1,5 @@
-### Hi there 👋
+<h2 align="left">Welcome everyone</h3>
 
-<p> _____________________________________________________________________________________________________________________________ </p>
 <h2 align="left">Skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> </a> 
@@ -14,7 +13,6 @@
 <p> _____________________________________________________________________________________________________________________________ </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarbosa92&show_icons=true&theme=codeSTACKr)
-
 <p> _____________________________________________________________________________________________________________________________ </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebarbosa92&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
