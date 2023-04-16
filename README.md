@@ -10,10 +10,11 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="60" height="60"/> </a>
 </p>
 
-<p> _____________________________________________________________________________________________________________________________ </p>
+<h2 align="left"> </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebarbosa92&show_icons=true&theme=codeSTACKr)
-<p> _____________________________________________________________________________________________________________________________ </p>
+
+<h2 align="left"> </h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebarbosa92&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 <!--
