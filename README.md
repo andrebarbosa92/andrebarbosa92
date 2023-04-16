@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p> _____________________________________________________________________________________________________________________________ </p>
-<h3 align="left">SKILLS:</h3>
+<h2 align="left">Skills</h3>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="60"/> </a> 
