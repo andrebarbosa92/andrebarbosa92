@@ -5,6 +5,11 @@
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60"/> </a> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="60" height="60"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="60" height="60"/> </a> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="60" height="60"/> </a>
+
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
