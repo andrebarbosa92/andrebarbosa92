@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andrebarbosa92&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **andrebarbosa92/andrebarbosa92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
